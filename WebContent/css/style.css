@@ -1,0 +1,28 @@
+
+
+
+.formulaireconn{
+    display: flex;
+    justify-content: center;
+    margin-top: 25%;
+}
+
+.btco_mem_forgt{
+	display: flex;
+	justify-content : center;
+	flex-wrap : wrap;
+}
+.mem_forgt{
+	margin-left: 10px;
+	display: flex;
+	flex-direction: column;
+}
+.btco{
+	margin-top: 10px;
+	
+}
+
+.cb_rmb{
+	display: flex;
+	flex-direction: row;
+}
